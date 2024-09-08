@@ -1,0 +1,30 @@
+h1{
+    background-color: rgb(83, 118, 207);
+    text-align: center;
+}
+ .w{
+    color: rgb(255, 0, 34);
+ }
+ .e{
+    color: yellow;
+ }
+ .r{
+    color: rgb(49, 225, 49);
+ }
+ .f{
+    color: gray;
+ }
+ .t{
+    background-color: yellow;
+    width: 400px;
+    text-align: center;
+ }
+ .y{
+    background-color: red;
+ }
+ .o{
+    background-color: green;
+ }
+ .c{
+    background-color: blueviolet;
+ }
